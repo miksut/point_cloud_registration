@@ -14,9 +14,8 @@ In each iteration, the ICP algorithm performs the following tasks:
 The application itself builds upon a framework provided by the Visualization and MultiMedia Lab. The following image shows an exemplary rendering.
 
 <img
-    src="/res/point_clouds.png"
-    height="250"
-    align="left">
+    src="/res/point_cloud.png"
+    height="250">
 
 ---
 
